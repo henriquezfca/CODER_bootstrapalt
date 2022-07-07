@@ -18,17 +18,14 @@ body {
 
 
 .hero-section {
-    width: max-content;
-    height: 20%;
+    width: 100%;
+    height: 20rem;
 }
 
 .container {
     margin-left: 5rem;
     margin-right: 5rem;
-    display: grid;
-    grid-template-columns: 33%;
-    grid-template-rows: 10rem 24rem;
-    column-gap: 20px;
+
 
 }
 
